@@ -1,0 +1,5 @@
+Best match found with:
+Smaller standard deviation = 3.8000
+Larger standard deviation = 4.3000
+Distance measure = 0.0325
+
