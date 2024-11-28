@@ -1,0 +1,4 @@
+Mask size used: 19x19
+Value at row=184, column=15: 0.1730
+Value at row=133, column=293: -0.0497
+
