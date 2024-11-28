@@ -1,0 +1,4 @@
+Pixel value at row=101, column=151: -0.0130
+Correlation at 3 pixel shift: 0.3351
+Correlation at 22 pixel shift: 0.0732
+
