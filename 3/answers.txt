@@ -1,0 +1,8 @@
+LoG (σ = 1.5) values:
+row=169, column=4: 0.0357
+row=134, column=13: -0.0280
+LoG (σ = 5.0) values:
+row=169, column=4: 0.0011
+row=134, column=13: -0.0004
+
+
