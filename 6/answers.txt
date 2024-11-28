@@ -1,0 +1,4 @@
+Values from combined response:
+Value at row=290, column=292: 0.0255
+Value at row=331, column=147: 0.2962
+
